@@ -1,0 +1,929 @@
+[
+  {
+    "id": 1,
+    "Photo": "",
+    "Name": "Albion Falls",
+    "Height": "62.32 feet (19.00 m)",
+    "Width": "59.04 feet (18.00 m)",
+    "Latitude": 43.2004,
+    "Longitude": -79.8196
+  },
+  {
+    "id": 2,
+    "Photo": "",
+    "Name": "Ancaster Heights Falls",
+    "Height": "43.952 feet (13.397 m)",
+    "Width": "5.904 feet (1.800 m)",
+    "Latitude": 43.2397,
+    "Longitude": -79.9628
+  },
+  {
+    "id": 3,
+    "Photo": "",
+    "Name": "Auchmar Falls",
+    "Height": "40 feet (12 m)",
+    "Width": "5 feet (1.5 m)",
+    "Latitude": 43.2436,
+    "Longitude": -79.8912
+  },
+  {
+    "id": 4,
+    "Photo": "",
+    "Name": "Baby Albion Falls",
+    "Height": "28 feet (8.5 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": 43.2001,
+    "Longitude": -79.8196
+  },
+  {
+    "id": 5,
+    "Photo": "",
+    "Name": "Baby Webster Falls",
+    "Height": "29.52 feet (9.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2757,
+    "Longitude": -79.9819
+  },
+  {
+    "id": 6,
+    "Photo": "",
+    "Name": "Beckett Falls",
+    "Height": "10 feet (3.0 m)",
+    "Width": "4 feet (1.2 m)",
+    "Latitude": 43.2449,
+    "Longitude": -79.8858
+  },
+  {
+    "id": 7,
+    "Photo": "",
+    "Name": "Billy Green Falls",
+    "Height": "55.76 feet (17.00 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2072,
+    "Longitude": -79.7664
+  },
+  {
+    "id": 8,
+    "Photo": "",
+    "Name": "Billy Monkley Cascade",
+    "Height": "10 feet (3.0 m)",
+    "Width": "21 feet (6.4 m)",
+    "Latitude": 43.1904,
+    "Longitude": -79.8304
+  },
+  {
+    "id": 9,
+    "Photo": "",
+    "Name": "Blue Falls",
+    "Height": "13 feet (4.0 m)",
+    "Width": "10 feet (3.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 10,
+    "Photo": "",
+    "Name": "Borer's Falls",
+    "Height": "49.2 feet (15.0 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": 43.2938,
+    "Longitude": -79.9368
+  },
+  {
+    "id": 11,
+    "Photo": "",
+    "Name": "Broman Falls",
+    "Height": "22 feet (6.7 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": 43.2142,
+    "Longitude": -79.816
+  },
+  {
+    "id": 12,
+    "Photo": "",
+    "Name": "Buttermilk Falls",
+    "Height": "75.44 feet (22.99 m)",
+    "Width": "26.24 feet (8.00 m)",
+    "Latitude": 43.2053,
+    "Longitude": -79.8196
+  },
+  {
+    "id": 13,
+    "Photo": "",
+    "Name": "Canterbury Falls",
+    "Height": "29.52 feet (9.00 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.237,
+    "Longitude": -79.9807
+  },
+  {
+    "id": 14,
+    "Photo": "",
+    "Name": "Cave Falls",
+    "Height": "50 feet (15 m)",
+    "Width": "10 feet (3.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 15,
+    "Photo": "",
+    "Name": "Centennial Falls",
+    "Height": "32.8 feet (10.0 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.2086,
+    "Longitude": -79.7685
+  },
+  {
+    "id": 16,
+    "Photo": "",
+    "Name": "Chedoke Falls",
+    "Height": "59.04 feet (18.00 m)",
+    "Width": "29.52 feet (9.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 17,
+    "Photo": "",
+    "Name": "Clappison Falls",
+    "Height": "23 feet (7.0 m)",
+    "Width": "10 feet (3.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 18,
+    "Photo": "",
+    "Name": "Cliffview Falls",
+    "Height": "49.2 feet (15.0 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2443,
+    "Longitude": -79.9079
+  },
+  {
+    "id": 19,
+    "Photo": "",
+    "Name": "Darnley Cascade",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "72.16 feet (21.99 m)",
+    "Latitude": 43.2772,
+    "Longitude": -80.0068
+  },
+  {
+    "id": 20,
+    "Photo": "",
+    "Name": "Denlow Falls",
+    "Height": "62.32 feet (19.00 m)",
+    "Width": "29.52 feet (9.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 21,
+    "Photo": "",
+    "Name": "Devil's Punch Bowl Falls",
+    "Height": "121.36 feet (36.99 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2103,
+    "Longitude": -79.7559
+  },
+  {
+    "id": 22,
+    "Photo": "",
+    "Name": "Dewitt Falls",
+    "Height": "22.96 feet (7.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2068,
+    "Longitude": -79.7184
+  },
+  {
+    "id": 23,
+    "Photo": "",
+    "Name": "Duchess Falls",
+    "Height": "13 feet (4.0 m)",
+    "Width": "5 feet (1.5 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 24,
+    "Photo": "",
+    "Name": "Dundas Falls",
+    "Height": "20.992 feet (6.398 m)",
+    "Width": "21.976 feet (6.698 m)",
+    "Latitude": 43.273,
+    "Longitude": -79.9722
+  },
+  {
+    "id": 25,
+    "Photo": "",
+    "Name": "Dyment Falls",
+    "Height": "51.496 feet (15.696 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.2782,
+    "Longitude": -79.9491
+  },
+  {
+    "id": 26,
+    "Photo": "",
+    "Name": "East Glover's Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 27,
+    "Photo": "",
+    "Name": "East Greensville Falls",
+    "Height": "18.04 feet (5.50 m)",
+    "Width": "4.92 feet (1.50 m)",
+    "Latitude": 43.2794,
+    "Longitude": -79.9915
+  },
+  {
+    "id": 28,
+    "Photo": "",
+    "Name": "East Iroquoia Falls",
+    "Height": "65.6 feet (20.0 m)",
+    "Width": "3.936 feet (1.200 m)",
+    "Latitude": 43.2448,
+    "Longitude": -79.9386
+  },
+  {
+    "id": 29,
+    "Photo": "",
+    "Name": "East of Fifty Falls",
+    "Height": "32.8 feet (10.0 m)",
+    "Width": "4.92 feet (1.50 m)",
+    "Latitude": 43.1949,
+    "Longitude": -79.6414
+  },
+  {
+    "id": 30,
+    "Photo": "",
+    "Name": "Felker's Falls",
+    "Height": "72.16 feet (21.99 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2035,
+    "Longitude": -79.7902
+  },
+  {
+    "id": 31,
+    "Photo": "",
+    "Name": "Ferguson Falls",
+    "Height": "97 feet (30 m)",
+    "Width": "6 feet (1.8 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 32,
+    "Photo": "",
+    "Name": "Fifty Road Cascade",
+    "Height": "32.8 feet (10.0 m)",
+    "Width": "3.936 feet (1.200 m)",
+    "Latitude": 43.1946,
+    "Longitude": -79.6445
+  },
+  {
+    "id": 33,
+    "Photo": "",
+    "Name": "Glover's Falls",
+    "Height": "26.24 feet (8.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 34,
+    "Photo": "",
+    "Name": "Grand Cascade",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "3.28 feet (1.00 m)",
+    "Latitude": 43.1962,
+    "Longitude": -79.6501
+  },
+  {
+    "id": 35,
+    "Photo": "",
+    "Name": "Great Falls",
+    "Height": "32.8 feet (10.0 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": 43.3305,
+    "Longitude": -79.8872
+  },
+  {
+    "id": 36,
+    "Photo": "",
+    "Name": "Grindstone Cascade",
+    "Height": "9.84 feet (3.00 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": 43.3284,
+    "Longitude": -79.8869
+  },
+  {
+    "id": 37,
+    "Photo": "",
+    "Name": "Hannon Cascade",
+    "Height": "10 feet (3.0 m)",
+    "Width": "18 feet (5.5 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 38,
+    "Photo": "",
+    "Name": "Harvey Falls",
+    "Height": "52.48 feet (16.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.1998,
+    "Longitude": -79.6597
+  },
+  {
+    "id": 39,
+    "Photo": "",
+    "Name": "Heritage Falls",
+    "Height": "16.4 feet (5.0 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.24,
+    "Longitude": -80.0039
+  },
+  {
+    "id": 40,
+    "Photo": "",
+    "Name": "Heritage Green Falls",
+    "Height": "40 feet (12 m)",
+    "Width": "6 feet (1.8 m)",
+    "Latitude": 43.2047,
+    "Longitude": -79.7875
+  },
+  {
+    "id": 41,
+    "Photo": "",
+    "Name": "Hermitage Cascade",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": 43.2364,
+    "Longitude": -79.998
+  },
+  {
+    "id": 42,
+    "Photo": "",
+    "Name": "Hidden Grindstone Falls",
+    "Height": "26 feet (7.9 m)",
+    "Width": "5 feet (1.5 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 43,
+    "Photo": "",
+    "Name": "Jones Road Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2035,
+    "Longitude": -79.6956
+  },
+  {
+    "id": 44,
+    "Photo": "",
+    "Name": "Lewis Road East Falls",
+    "Height": "26.24 feet (8.00 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": 43.2005,
+    "Longitude": -79.665
+  },
+  {
+    "id": 45,
+    "Photo": "",
+    "Name": "Lewis Road West Falls",
+    "Height": "29.52 feet (9.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2003,
+    "Longitude": -79.6657
+  },
+  {
+    "id": 46,
+    "Photo": "",
+    "Name": "Limeridge Falls",
+    "Height": "50 feet (15 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 47,
+    "Photo": "",
+    "Name": "Little Canterbury Falls",
+    "Height": "16.4 feet (5.0 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2369,
+    "Longitude": -79.98
+  },
+  {
+    "id": 48,
+    "Photo": "",
+    "Name": "Little Davis Falls",
+    "Height": "9.84 feet (3.00 m)",
+    "Width": "26.24 feet (8.00 m)",
+    "Latitude": 43.2067,
+    "Longitude": -79.7889
+  },
+  {
+    "id": 49,
+    "Photo": "",
+    "Name": "Little Falls",
+    "Height": "22.96 feet (7.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2395,
+    "Longitude": -79.9656
+  },
+  {
+    "id": 50,
+    "Photo": "",
+    "Name": "Lower Borer's Falls",
+    "Height": "9.84 feet (3.00 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 51,
+    "Photo": "",
+    "Name": "Lower Chedoke Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "36.08 feet (11.00 m)",
+    "Latitude": 43.2442,
+    "Longitude": -79.9004
+  },
+  {
+    "id": 52,
+    "Photo": "",
+    "Name": "Lower Cliffview Falls",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2457,
+    "Longitude": -79.9084
+  },
+  {
+    "id": 53,
+    "Photo": "",
+    "Name": "Lower Glendale Falls",
+    "Height": "11 feet (3.4 m)",
+    "Width": "13 feet (4.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 54,
+    "Photo": "",
+    "Name": "Lower Hopkins Cascade",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "11.48 feet (3.50 m)",
+    "Latitude": 43.2966,
+    "Longitude": -79.9292
+  },
+  {
+    "id": 55,
+    "Photo": "",
+    "Name": "Lower Little Falls",
+    "Height": "26.896 feet (8.198 m)",
+    "Width": "5.904 feet (1.800 m)",
+    "Latitude": 43.24,
+    "Longitude": -79.9657
+  },
+  {
+    "id": 56,
+    "Photo": "",
+    "Name": "Lower Mill Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.234,
+    "Longitude": -79.9735
+  },
+  {
+    "id": 57,
+    "Photo": "",
+    "Name": "Lower Mohawk Falls",
+    "Height": "20 feet (6.1 m)",
+    "Width": "12 feet (3.7 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 58,
+    "Photo": "",
+    "Name": "Lower Princess Falls",
+    "Height": "129.8 feet (39.6 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2459,
+    "Longitude": -79.9299
+  },
+  {
+    "id": 59,
+    "Photo": "",
+    "Name": "Lower Punchbowl Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2111,
+    "Longitude": -79.7573
+  },
+  {
+    "id": 60,
+    "Photo": "",
+    "Name": "Lower Sanitorium Cascade",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.246,
+    "Longitude": -79.9149
+  },
+  {
+    "id": 61,
+    "Photo": "",
+    "Name": "Lower Scenic Cascade",
+    "Height": "10 feet (3.0 m)",
+    "Width": "4 feet (1.2 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 62,
+    "Photo": "",
+    "Name": "Lower Sydenham Falls",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.274,
+    "Longitude": -79.9584
+  },
+  {
+    "id": 63,
+    "Photo": "",
+    "Name": "Lower Tew's Falls",
+    "Height": "12.136 feet (3.699 m)",
+    "Width": "21.976 feet (6.698 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 64,
+    "Photo": "",
+    "Name": "Lower Westcliffe Falls",
+    "Height": "29.52 feet (9.00 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2457,
+    "Longitude": -79.9084
+  },
+  {
+    "id": 65,
+    "Photo": "",
+    "Name": "McNeilly Falls",
+    "Height": "39.36 feet (12.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 66,
+    "Photo": "",
+    "Name": "Middle Glendale Falls",
+    "Height": "10 feet (3.0 m)",
+    "Width": "11 feet (3.4 m)",
+    "Latitude": 43.2025,
+    "Longitude": -79.8094
+  },
+  {
+    "id": 67,
+    "Photo": "",
+    "Name": "Mill Falls",
+    "Height": "22.96 feet (7.00 m)",
+    "Width": "13.12 feet (4.00 m)",
+    "Latitude": 43.2334,
+    "Longitude": -79.9739
+  },
+  {
+    "id": 68,
+    "Photo": "",
+    "Name": "Mineral Springs Falls",
+    "Height": "9.84 feet (3.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2364,
+    "Longitude": -80.0124
+  },
+  {
+    "id": 69,
+    "Photo": "",
+    "Name": "Mountain Spring Falls",
+    "Height": "50 feet (15 m)",
+    "Width": "8 feet (2.4 m)",
+    "Latitude": 43.2045,
+    "Longitude": -79.788
+  },
+  {
+    "id": 70,
+    "Photo": "",
+    "Name": "Mountview Falls",
+    "Height": "32.8 feet (10.0 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2455,
+    "Longitude": -79.9214
+  },
+  {
+    "id": 71,
+    "Photo": "",
+    "Name": "Oak Knoll Falls",
+    "Height": "25 feet (7.6 m)",
+    "Width": "4 feet (1.2 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 72,
+    "Photo": "",
+    "Name": "Patterson East Cascade",
+    "Height": "15 feet (4.6 m)",
+    "Width": "5 feet (1.5 m)",
+    "Latitude": 43.2982,
+    "Longitude": -79.9271
+  },
+  {
+    "id": 73,
+    "Photo": "",
+    "Name": "Patterson West Cascade",
+    "Height": "14 feet (4.3 m)",
+    "Width": "4 feet (1.2 m)",
+    "Latitude": 43.2979,
+    "Longitude": -79.9277
+  },
+  {
+    "id": 74,
+    "Photo": "",
+    "Name": "Princess Falls",
+    "Height": "22.96 feet (7.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2458,
+    "Longitude": -79.9299
+  },
+  {
+    "id": 75,
+    "Photo": "",
+    "Name": "Pritchard Falls",
+    "Height": "15 feet (4.6 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": 43.2011,
+    "Longitude": -79.8163
+  },
+  {
+    "id": 76,
+    "Photo": "",
+    "Name": "Progreston Falls",
+    "Height": "21.976 feet (6.698 m)",
+    "Width": "54.12 feet (16.50 m)",
+    "Latitude": 43.3981,
+    "Longitude": -79.9599
+  },
+  {
+    "id": 77,
+    "Photo": "",
+    "Name": "Promontory Falls",
+    "Height": "59.04 feet (18.00 m)",
+    "Width": "3.28 feet (1.00 m)",
+    "Latitude": 43.1982,
+    "Longitude": -79.6523
+  },
+  {
+    "id": 78,
+    "Photo": "",
+    "Name": "Puddicombe Falls",
+    "Height": "19.68 feet (6.00 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.1945,
+    "Longitude": -79.6379
+  },
+  {
+    "id": 79,
+    "Photo": "",
+    "Name": "Rock Chapel Falls",
+    "Height": "26.24 feet (8.00 m)",
+    "Width": "4.92 feet (1.50 m)",
+    "Latitude": 43.2911,
+    "Longitude": -79.9366
+  },
+  {
+    "id": 80,
+    "Photo": "",
+    "Name": "Romar Cascade",
+    "Height": "23 feet (7.0 m)",
+    "Width": "4 feet (1.2 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 81,
+    "Photo": "",
+    "Name": "Scenic Falls",
+    "Height": "65.6 feet (20.0 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2442,
+    "Longitude": -79.9348
+  },
+  {
+    "id": 82,
+    "Photo": "",
+    "Name": "Sherman Falls",
+    "Height": "55.76 feet (17.00 m)",
+    "Width": "26.24 feet (8.00 m)",
+    "Latitude": 43.2381,
+    "Longitude": -79.9729
+  },
+  {
+    "id": 83,
+    "Photo": "",
+    "Name": "Smith Cascade",
+    "Height": "15 feet (4.6 m)",
+    "Width": "6.5 feet (2.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 84,
+    "Photo": "",
+    "Name": "Snake Falls",
+    "Height": "82 feet (25 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 85,
+    "Photo": "",
+    "Name": "Steven's Falls",
+    "Height": "26.24 feet (8.00 m)",
+    "Width": "16.4 feet (5.0 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 86,
+    "Photo": "",
+    "Name": "Sugar Shack Falls",
+    "Height": "30 feet (9.1 m)",
+    "Width": "13 feet (4.0 m)",
+    "Latitude": 43.2845,
+    "Longitude": -79.9375
+  },
+  {
+    "id": 87,
+    "Photo": "",
+    "Name": "Tew's Falls",
+    "Height": "134.48 feet (40.99 m)",
+    "Width": "29.52 feet (9.00 m)",
+    "Latitude": 43.2807,
+    "Longitude": -79.9783
+  },
+  {
+    "id": 88,
+    "Photo": "",
+    "Name": "Tiffany Falls",
+    "Height": "68.88 feet (20.99 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": 43.2382,
+    "Longitude": -79.9581
+  },
+  {
+    "id": 89,
+    "Photo": "",
+    "Name": "Upper Glendale Falls",
+    "Height": "9.84 feet (3.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2023,
+    "Longitude": -79.8097
+  },
+  {
+    "id": 90,
+    "Photo": "",
+    "Name": "Upper Hopkins Cascade",
+    "Height": "10.496 feet (3.199 m)",
+    "Width": "7.544 feet (2.299 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 91,
+    "Photo": "",
+    "Name": "Upper Mohawk Cascade",
+    "Height": "10 feet (3.0 m)",
+    "Width": "8 feet (2.4 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 92,
+    "Photo": "",
+    "Name": "Upper Quarry Cascade",
+    "Height": "13.12 feet (4.00 m)",
+    "Width": "3.936 feet (1.200 m)",
+    "Latitude": 43.3134,
+    "Longitude": -79.9064
+  },
+  {
+    "id": 93,
+    "Photo": "",
+    "Name": "Upper Sanatorium Falls",
+    "Height": "29.52 feet (9.00 m)",
+    "Width": "9.84 feet (3.00 m)",
+    "Latitude": 43.2447,
+    "Longitude": -79.9148
+  },
+  {
+    "id": 94,
+    "Photo": "",
+    "Name": "Valley Falls",
+    "Height": "14 feet (4.3 m)",
+    "Width": "14 feet (4.3 m)",
+    "Latitude": 43.2975,
+    "Longitude": -79.9283
+  },
+  {
+    "id": 95,
+    "Photo": "",
+    "Name": "Veevers Falls",
+    "Height": "45.92 feet (14.00 m)",
+    "Width": "8.2 feet (2.5 m)",
+    "Latitude": 43.2082,
+    "Longitude": -79.7809
+  },
+  {
+    "id": 96,
+    "Photo": "",
+    "Name": "Walnut Grove Falls",
+    "Height": "15 feet (4.6 m)",
+    "Width": "3.6 feet (1.1 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 97,
+    "Photo": "",
+    "Name": "Washboard Falls",
+    "Height": "16.4 feet (5.0 m)",
+    "Width": "19.68 feet (6.00 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 98,
+    "Photo": "",
+    "Name": "Webster Falls",
+    "Height": "72.16 feet (21.99 m)",
+    "Width": "98.4 feet (30.0 m)",
+    "Latitude": 43.2762,
+    "Longitude": -79.9809
+  },
+  {
+    "id": 99,
+    "Photo": "",
+    "Name": "Wesley Cascade",
+    "Height": "13 feet (4.0 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 100,
+    "Photo": "",
+    "Name": "West Iroquoia Falls",
+    "Height": "64.944 feet (19.795 m)",
+    "Width": "3.28 feet (1.00 m)",
+    "Latitude": 43.2442,
+    "Longitude": -79.9404
+  },
+  {
+    "id": 101,
+    "Photo": "",
+    "Name": "West Moss Cascade",
+    "Height": "10 feet (3.0 m)",
+    "Width": "3 feet (0.91 m)",
+    "Latitude": null,
+    "Longitude": null
+  },
+  {
+    "id": 102,
+    "Photo": "",
+    "Name": "West of Fifty Upper Cascade",
+    "Height": "26.24 feet (8.00 m)",
+    "Width": "4.92 feet (1.50 m)",
+    "Latitude": 43.1957,
+    "Longitude": -79.6477
+  },
+  {
+    "id": 103,
+    "Photo": "",
+    "Name": "Westcliffe Falls",
+    "Height": "49.2 feet (15.0 m)",
+    "Width": "6.56 feet (2.00 m)",
+    "Latitude": 43.2454,
+    "Longitude": -79.9085
+  }
+]
