@@ -1,31 +1,36 @@
-import { StyleSheet } from 'react-native';
-
-import EditScreenInfo from '@/components/EditScreenInfo';
-import { Text, View } from '@/components/Themed';
+import React from 'react';
+import { StyleSheet, FlatList, SafeAreaView } from 'react-native';
+import WaterfallCard from '@/components/WaterfallCard';
+import { View } from '@/components/Themed';
+import waterfallsData from '@/assets/waterfalls.json';
+import { Waterfall } from '@/types/waterfall';
 
 export default function TabOneScreen() {
+  const waterfalls: Waterfall[] = waterfallsData;
+
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Tab One</Text>
-      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="app/(tabs)/index.tsx" />
-    </View>
+    <SafeAreaView style={styles.safeArea}>
+      <View style={styles.container}>
+        <FlatList
+          data={waterfalls}
+          renderItem={({ item }) => <WaterfallCard waterfall={item} />}
+          keyExtractor={(item) => item.id.toString()}
+          contentContainerStyle={styles.listContentContainer}
+        />
+      </View>
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
+  safeArea: {
+    flex: 1,
+    backgroundColor: '#f0f0f0', // Or your desired background color
+  },
   container: {
     flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
   },
-  title: {
-    fontSize: 20,
-    fontWeight: 'bold',
-  },
-  separator: {
-    marginVertical: 30,
-    height: 1,
-    width: '80%',
+  listContentContainer: {
+    paddingVertical: 8,
   },
 });
