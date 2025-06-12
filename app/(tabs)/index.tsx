@@ -9,9 +9,14 @@ export default function TabOneScreen() {
   const waterfalls: Waterfall[] = waterfallsData;
 
   return (
-<<<<<<< feat/waterfall-list
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.container}>
+        {/* Static header from `main` branch */}
+        <Text style={styles.title}>Hamilton Falls</Text>
+        <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
+        <EditScreenInfo path="app/(tabs)/index.tsx" />
+
+        {/* Dynamic list from `feat/waterfall-list` branch */}
         <FlatList
           data={waterfalls}
           renderItem={({ item }) => <WaterfallCard waterfall={item} />}
@@ -20,14 +25,7 @@ export default function TabOneScreen() {
         />
       </View>
     </SafeAreaView>
-=======
-    <View style={styles.container}>
-      <Text style={styles.title}>Hamilton Falls</Text>
-      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <EditScreenInfo path="app/(tabs)/index.tsx" />
-    </View>
->>>>>>> main
-  );
+);
 }
 
 const styles = StyleSheet.create({
