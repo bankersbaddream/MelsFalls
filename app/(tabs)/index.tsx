@@ -1,7 +1,8 @@
 import React from 'react';
 import { StyleSheet, FlatList, SafeAreaView } from 'react-native';
 import WaterfallCard from '@/components/WaterfallCard';
-import { View } from '@/components/Themed';
+import EditScreenInfo from '@/components/EditScreenInfo';
+import { Text, View } from '@/components/Themed';
 import waterfallsData from '@/assets/waterfalls.json';
 import { Waterfall } from '@/types/waterfall';
 
@@ -25,7 +26,7 @@ export default function TabOneScreen() {
         />
       </View>
     </SafeAreaView>
-);
+  );
 }
 
 const styles = StyleSheet.create({
@@ -35,6 +36,15 @@ const styles = StyleSheet.create({
   },
   container: {
     flex: 1,
+  },
+  title: {
+    fontSize: 20,
+    fontWeight: 'bold',
+  },
+  separator: {
+    marginVertical: 30,
+    height: 1,
+    width: '80%',
   },
   listContentContainer: {
     paddingVertical: 8,
