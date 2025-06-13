@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, FlatList, SafeAreaView } from 'react-native';
 import WaterfallCard from '@/components/WaterfallCard';
-import EditScreenInfo from '@/components/EditScreenInfo';
 import { Text, View } from '@/components/Themed';
 import waterfallsData from '@/assets/waterfalls.json';
 import { Waterfall } from '@/types/waterfall';
@@ -12,10 +11,6 @@ export default function TabOneScreen() {
   return (
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.container}>
-        {/* Static header from `main` branch */}
-        <Text style={styles.title}>Hamilton Falls</Text>
-        <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-        <EditScreenInfo path="app/(tabs)/index.tsx" />
 
         {/* Dynamic list from `feat/waterfall-list` branch */}
         <FlatList
